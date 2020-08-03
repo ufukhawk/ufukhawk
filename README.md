@@ -11,7 +11,6 @@ Simply send us your purchase code for support. If this code is verified by us, w
 Some developers may even quit this enthusiastic work because of the design part.
 
 <a href="https://codecanyon.net/user/xamdesign"><img border="0" alt="Govo Travel Application" src="https://s3.envato.com/files/285915900/mainimg.png"></a>
-<a href="https://codecanyon.net/user/xamdesign"><img border="0" alt="Govo Travel Application" src="https://i.imgur.com/QvfWDJv.gif"></a>
 
 <a href="https://codecanyon.net/item/govo-travel-application-xamarin-forms-android-ios/26323225"><img border="0" alt="Govo Travel Application" src="https://codecanyon.img.customer.envatousercontent.com/files/285899049/App%20Preview%20Image.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=85b51279e084b761220909587ef43ef9.png"></a>
 

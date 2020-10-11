@@ -11,7 +11,7 @@ Simply send us your purchase code for support. If this code is verified by us, w
 Some developers may even quit this enthusiastic work because of the design part.
 
 
-<a href="https://codecanyon.net/user/xamdesign"><img border="0"  src="https://s3.envato.com/files/285915900/mainimg.png"></a>
+<a href="https://codecanyon.net/user/xamdesign"><img border="0"  src="https://codecanyon.img.customer.envatousercontent.com/files/308327237/DellyShopFlutterPromo.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=5447666419ae5503483811bec97d80dc.png"></a>
 
 <a href="https://codecanyon.net/item/flutter-dellyshop-ecommerce-app/28804937"><img border="0" alt="DellyShop eCommerce Application - Xamarin Forms (Android & iOS)" src="https://imgur.com/qURr4W5.png"></a>
 

@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-<b>XamDesign</b> apps will save you a great deal of time with its superior design and infrastructure features Design is a time-consuming and difficult process in <b>Xamarin Forms</b>. 
+XamDesign is a Mobile application development company. Our aim is to present you high quality, useful and affordable projects. Thus, we save you hundreds of hours and financial loss.
 
-Most super developers lose a lot of time with the Design part, but <b>XamDesign</b> apps will save you time. <b>XamDesign</b> apps will never put you in a mold with its flexible and dynamic structure. 
+You will realize the quality and service the moment you become our customer. We answer all your questions and problems instantly with our expert staff!
 
-Everything is easy, everything is simple! Even if you don’t have any knowledge about <b>Xamarin</b>, we are ready to help you with our explanatory documents and our 24/7 support line. 
-
-Simply send us your purchase code for support. If this code is verified by us, we will be happy to support you! With this Application you can learn <b>Xamarin.Forms</b> and you can learn what can be done with Xamarin and what are the limits of <b>Xamarin</b>. Designing on <b>Android</b> and <b>iOS</b> mobile platforms is a waste of time. 
-
-Some developers may even quit this enthusiastic work because of the design part.
+Thank you for choosing us.
+XamDesign Team.
 
 <a href="https://codecanyon.net/item/flutter-login-ui-kit-in-flutter-20-ios-android-desktop-web/31406951"><img border="0" alt="Flutter Login Ui Kit in Flutter 2.0 (Desktop,Web, iOS, Android)" src="https://codecanyon.img.customer.envatousercontent.com/files/331910835/Flutter_login_ui_kit.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=b17534f543079295c3c8754fa4a5c9cf.png"></a>
 

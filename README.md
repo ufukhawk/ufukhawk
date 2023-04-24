@@ -1,5 +1,9 @@
 # Hi there 👋
-<br>XamDesign is a Mobile application development company. Our aim is to present you high quality, useful and affordable projects. Thus, we save you hundreds of hours and financial loss.<br><br>You will realize the quality and service the moment you become our customer. We answer all your questions and problems instantly with our expert staff!<br><br>Thank you for choosing us. XamDesign Team.
+Hi there, I am a Senior Flutter Developer with <b>5</b> years of experience in developing high-quality, cross-platform mobile applications using Flutter SDK and Dart programming language.
+
+I have a passion for mobile application development and love creating innovative solutions that meet the needs of clients and end-users. I have a strong proficiency in Dart programming language and a proven track record of developing high-quality mobile applications using Flutter SDK.
+
+My expertise includes developing custom UI components, integrating REST APIs, Firebase, and SQLite databases, and optimizing application performance. I have a good understanding of Git version control and follow best practices to ensure clean, maintainable, and well-documented code.
 
 
 ## 🌐 Socials:

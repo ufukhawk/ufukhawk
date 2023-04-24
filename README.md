@@ -1,6 +1,5 @@
-# 💫 About Me:
-
-Hi there 👋<br>XamDesign is a Mobile application development company. Our aim is to present you high quality, useful and affordable projects. Thus, we save you hundreds of hours and financial loss.<br><br>You will realize the quality and service the moment you become our customer. We answer all your questions and problems instantly with our expert staff!<br><br>Thank you for choosing us. XamDesign Team.
+# Hi there 👋
+<br>XamDesign is a Mobile application development company. Our aim is to present you high quality, useful and affordable projects. Thus, we save you hundreds of hours and financial loss.<br><br>You will realize the quality and service the moment you become our customer. We answer all your questions and problems instantly with our expert staff!<br><br>Thank you for choosing us. XamDesign Team.
 
 
 ## 🌐 Socials:
